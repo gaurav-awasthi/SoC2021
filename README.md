@@ -22,7 +22,7 @@ Task 5 [ID-B4]: Age and gender detection from a YouTube video.
 
 ### Phase 3: 
 Wrapping everything up, we had a choice between making a Gender and Age detection app using TFLite and Android Studio, and making a Google Colab based Face Recognition, Identification and Clustering notebook. I chose to do the second of these. 
-#### Checkpoint 3 (18 July, 2021): 
+#### Endterm Submission (18 July, 2021): 
 Task 7 [ID-C2]: Google Colab based face recognition, identification, and clustering. \
 \
 \
