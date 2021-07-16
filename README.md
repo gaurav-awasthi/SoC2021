@@ -1,7 +1,7 @@
 # SoC2021
 Hey there! \
 This is the repository I'm maintaining for my Summer of Code project under the IIT Bombay Web and Coding Club. \
-The project essentially revolves around computer vision, with a little bit about neural networks thrown in for good measure. For this, I'm being mentord by Prayas Jain and Vanshika Gupta. \
+The project essentially revolves around computer vision, with some neural networks thrown in for good measure. For this, I'm being mentored by Prayas Jain and Vanshika Gupta. \
 This repository contains all of the tasks that I'm required to submit, and a brief report of everything I did. 
 
  
